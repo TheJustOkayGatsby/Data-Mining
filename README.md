@@ -30,7 +30,7 @@ Topics covered within this module:
      - via **PCA, Kmeans, DBScan**
     
   5) Graph Mining
-     - This was the most robust part of the module, and included **pathfinding** and **centrality** algorithms, all of which were solveed by hand prior to introducing code.
+     - This was the most robust part of the module, and included **pathfinding** and **centrality** algorithms, all of which were solved by hand prior to introducing code.
      - Taught methods:
        - **Dijkstra**'s
        - **Ford Fulkerson**
