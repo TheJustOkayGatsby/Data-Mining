@@ -17,22 +17,23 @@ Models used in this module:
 
 Topics covered within this module: 
 1) Text Mining
-   This converted unstructured text to a cleaned text which could be mined for tokens to make predictions with. Structured and unstructured.
-- Using BeautifulSoup
-- Using Natural Language ToolKit(NLTK)
-- Running classification, clustering and regression analysis on featurized texts
 
-  2) Neural Nets, in theory and in deployment
-    - MultiLayer Perceptron
+   This converted unstructured text to a cleaned text which could be mined for tokens to make predictions with. Structured and unstructured.
+   Using **BeautifulSoup**
+   Using **Natural Language ToolKit(NLTK)**
+   Running **classification**, **clustering** and **regression** analysis on featurized texts
+
+  3) **Neural Nets**, in theory and in deployment
+    - **MultiLayer Perceptron**
  
-  3) Clustering Analysis
+  4) **Clustering Analysis**
      - via PCA, Kmeans, DBScan
     
-  4) Graph Mining
+  5) Graph Mining
      - This was the most robust part of the module, and included pathfinding and centrality algorithms, all of which were solveed by hand prior to introducing code.
      - Taught methods:
-       - Dijkstra's
-       - Ford Fulkerson
-       - Betweenness Centrality
-       - Closeness Centrality
-       - Degree Centrality
+       - **Dijkstra**'s
+       - **Ford Fulkerson**
+       - **Betweenness** Centrality
+       - **Closeness** Centrality
+       - **Degree** Centrality
